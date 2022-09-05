@@ -13,3 +13,5 @@
 - Para a utilização do Azure e necessário cadastrar seu email, no meu caso o institucional oferecido pela Fatec, em seguida no menu principal, deve ser criado um GRUPO DE RECURSO e em seguida criar um banco de Dados que irá se comunicar com este GRUPO DE RECURSO;
 
 - Através do Azure Data Studio eu realizei a conexão com o Banco de Dados para executar os comandos exigidos pelo teste;
+
+[!ScreenShot](teste.png)
