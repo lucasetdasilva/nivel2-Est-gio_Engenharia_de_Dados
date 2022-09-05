@@ -14,4 +14,4 @@
 
 - Através do Azure Data Studio eu realizei a conexão com o Banco de Dados para executar os comandos exigidos pelo teste;
 
-[!ScreenShot](teste.png)
+![Screenshot](teste.png)
